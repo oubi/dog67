@@ -1,0 +1,95 @@
+{
+  "version": "1.2.1-rc.1",
+  "windows": {
+    "main": {
+      "x": -4,
+      "y": -4,
+      "width": 1928,
+      "height": 1060,
+      "layout": {
+        "docks": [
+          {
+            "docks": [
+              {
+                "active": 0,
+                "height": 628,
+                "panels": [
+                  "scene"
+                ],
+                "type": "panel",
+                "width": 1118.28125
+              },
+              {
+                "active": 1,
+                "height": 313,
+                "panels": [
+                  "console",
+                  "timeline"
+                ],
+                "type": "panel",
+                "width": 1118.28125
+              }
+            ],
+            "height": 944,
+            "row": false,
+            "type": "dock",
+            "width": 1118.28125
+          },
+          {
+            "docks": [
+              {
+                "active": 0,
+                "height": 461,
+                "panels": [
+                  "assets"
+                ],
+                "type": "panel",
+                "width": 200
+              },
+              {
+                "active": 0,
+                "height": 480,
+                "panels": [
+                  "node-library"
+                ],
+                "type": "panel",
+                "width": 200
+              }
+            ],
+            "height": 944,
+            "row": false,
+            "type": "dock",
+            "width": 200
+          },
+          {
+            "active": 0,
+            "height": 944,
+            "panels": [
+              "hierarchy"
+            ],
+            "type": "panel",
+            "width": 298.765625
+          },
+          {
+            "active": 0,
+            "height": 944,
+            "panels": [
+              "inspector"
+            ],
+            "type": "panel",
+            "width": 300
+          }
+        ],
+        "no-collapse": true,
+        "row": true,
+        "type": "dock"
+      }
+    },
+    "window-1475298663460": {
+      "x": 706,
+      "y": 262,
+      "width": 508,
+      "height": 527
+    }
+  }
+}
